@@ -7,7 +7,7 @@ import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Shell;
 import org.eclipse.swt.widgets.Text;
 import javax.swing.JOptionPane;
-//import org.w3c.dom.Text;
+
 
 public class Calculadora {
 
