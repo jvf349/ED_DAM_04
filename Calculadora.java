@@ -9,6 +9,10 @@ import org.eclipse.swt.widgets.Text;
 import javax.swing.JOptionPane;
 //import org.w3c.dom.Text;
 
+/*
+* @author JMVF
+*/
+
 public class Calculadora {
 
     // Constantes
